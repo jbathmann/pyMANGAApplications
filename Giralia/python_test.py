@@ -139,7 +139,7 @@ class FluxToTrees(OpenGeoSys.SourceTerm):
 
 
 file = open(
-    "/home/bathmann/Dokumente/UFZ/code/pyMANGA/ProjectLib/Applications/Giralia_test/EXM_Jan-Jul_2019.txt"
+    "/home/bathmann/Dokumente/UFZ/code/pyMANGA/ProjectLib/Applications/Giralia/EXM_Jan-Jul_2019.txt"
 )
 t_base = 0
 h_s = []
